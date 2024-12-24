@@ -1,0 +1,23 @@
+git push commands from local to remote using this commands
+
+create the floder in vscode
+push all files or create files in it
+
+git init ==> initialized empty git repository
+
+git add. ==> it will add all files into it
+
+git Commit -m "write any commands what you have done"
+
+it will give the create mode index.html
+
+git remote add origin https//:enter the repository where u need to push it
+
+git remote -v
+
+it will shows that origin https://github.com(fetch)
+it will shows that origin https://github.com(Push)
+
+git push origin master
+
+now it added to that newly created repository
